@@ -1,0 +1,20 @@
+h1 {
+    font-size: 63px;
+    color: #150B08;
+    margin: 20px 0;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 54px;
+    font-weight: 600;
+    color: #150B08;
+    margin: 20px 0;
+}
+
+.carousel-caption h5 {
+    font-size: 80px;
+    font-weight: 600;
+    color: #FFC107;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
